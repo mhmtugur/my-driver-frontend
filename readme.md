@@ -24,5 +24,4 @@ To run the unit tests for the components, run:
 
 ```bash
 npm test
-npm test.watch
 ```
