@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`error-display should error 1`] = `"<div class=\\"error-display\\"><span>Error: Newtork Error  Error occured</span></div>"`;

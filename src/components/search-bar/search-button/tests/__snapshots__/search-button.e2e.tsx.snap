@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`location list item should render button 1`] = `"<div class=\\"input-field\\"><button class=\\"btn waves-effect waves-light\\">Search</button></div>"`;

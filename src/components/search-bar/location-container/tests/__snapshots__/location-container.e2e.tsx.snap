@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`location container should render 1`] = `"<div><div><location-search class=\\"hydrated\\"><div class=\\"input-field\\"><i class=\\"material-icons prefix\\">location_on</i><input id=\\"searchInput\\" class=\\"validate truncate\\" required=\\"\\" type=\\"text\\" autocomplete=\\"off\\" placeholder=\\"City,airport,location... etc.\\"></div></location-search></div></div>"`;

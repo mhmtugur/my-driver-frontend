@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`location list item should render list item 1`] = `"<div class=\\"list-item\\"><i class=\\"material-icons location-icon\\">location_on</i><div><span class=\\"label\\">Berlin</span><span class=\\"address truncate\\">Berlin Airport</span></div></div>"`;

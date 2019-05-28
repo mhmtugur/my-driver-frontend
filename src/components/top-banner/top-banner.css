@@ -1,0 +1,19 @@
+.nav-container {
+  background-color: #111119; 
+}
+
+.nav-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.brand-logo {
+  padding: 4px;
+  width: 287px;
+  height: 54px;
+  background-color: #111119;
+  margin: auto;
+}
+.top-banner {
+  width: 100%;
+}

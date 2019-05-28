@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`location list should not crash if there are no locations 1`] = `"<div></div>"`;
+
+exports[`location list should render 1`] = `"<div><location-list-item class=\\"hydrated\\"><div class=\\"list-item\\"><i class=\\"material-icons location-icon\\">location_on</i><div><span class=\\"label\\">Berlin</span><span class=\\"address truncate\\">Berlin Airport</span></div></div></location-list-item><location-list-item class=\\"hydrated\\"><div class=\\"list-item\\"><i class=\\"material-icons location-icon\\">location_on</i><div><span class=\\"label\\">Berlin</span><span class=\\"address truncate\\">City Centre</span></div></div></location-list-item><location-list-item class=\\"hydrated\\"><div class=\\"list-item\\"><i class=\\"material-icons location-icon\\">location_on</i><div><span class=\\"label\\">Munich</span><span class=\\"address truncate\\">Munich Airport</span></div></div></location-list-item></div>"`;

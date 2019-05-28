@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`no-result-found should render no result found message 1`] = `"<div class=\\"result\\"><h5>No Result Found!</h5></div>"`;
