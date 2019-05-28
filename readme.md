@@ -11,12 +11,12 @@ This is mydriver-frontend project.
 ```bash
 git clone https://github.com/mhmtugur/my-driver-frontend.git my-driver-frontend
 cd my-driver-frontend
+npm install
 ```
 
 and run:
 
 ```bash
-npm install
 npm start
 ```
 
