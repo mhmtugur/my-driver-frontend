@@ -36,7 +36,7 @@
   },
   "homepage": "https://github.com/ionic-team/stencil",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cross-env": "^5.2.0",
     "moment": "^2.24.0",
     "supports-color": "^6.1.0"
